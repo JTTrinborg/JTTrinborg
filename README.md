@@ -2,7 +2,7 @@
 
 **IT Operations professional with infrastructure architecture experience, transitioning into DevOps and Cloud Engineering.**
 
-I work at the intersection of reliability, automation, and security. Over three years in IT, I've managed production infrastructure at Orkla—where I designed and deployed a company-wide network architecture separating IT/OT environments with proper segmentation and secure inter-layer connections.
+I work at the intersection of reliability, automation, and security. Over three years in IT, I've managed production infrastructure at Orkla, where I designed and deployed a company-wide network architecture separating IT/OT environments with proper segmentation and secure inter-layer connections.
 
 Currently completing a Master's in IT (Australia) with focus on cloud systems and automation.
 
