@@ -8,8 +8,8 @@ Currently completing a Master's in IT (Australia) with focus on cloud, Programmi
 
 ## Current Focus
 
-- **Azure Administrator Certification** - Building hands-on experience with Azure cloud infrastructure
-- **HashiCorp Terraform Certification** - Infrastructure as Code and cloud automation
+- **East Coast Whale Study Internship** - Creating a offline-first architecture for a research information gathering system
+- **Shark Drone** - Creating an autonomous drone that can spot sharks along the Queensland beaches
 
 ## Contact
 
