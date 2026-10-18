@@ -8,6 +8,7 @@ Currently completing a Master's in IT (Australia) with focus on cloud, Programmi
 
 - **volunteering for East Coast Whale Study** - Creating a offline-first architecture for a research information gathering system
 - **Shark Drone** - Creating an autonomous drone that can spot sharks along the Queensland beaches
+- **Hephaestus** - Creating an AI agentic platform that can be used to give AI agents tasks
 
 ## Contact
 
