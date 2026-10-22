@@ -14,7 +14,7 @@ Currently completing a Master's in IT (Australia) with focus on cloud, Programmi
 
 - [LinkedIn](https://www.linkedin.com/in/jan-thomas-trinborg/)
 - [Email](mailto:jan.t.trinborg@gmail.com)
-- [Website](trinborg.cloud)
+- [Website](https://www.trinborg.cloud)
 
 ---
 
